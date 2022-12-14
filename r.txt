@@ -2,3 +2,12 @@
 code complite
 
 did r branch edit
+code complited
+
+1st pull successfull from t mranch mumbai
+
+after global
+
+
+pull from mumbai to main branch of nv
+then in nv made merge main in to r branch and conflict happen after.....
